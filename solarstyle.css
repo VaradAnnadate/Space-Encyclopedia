@@ -1,0 +1,92 @@
+body{
+    background-image: url(./images/Black\ Sky\ Stars.jpg);
+}
+span{
+    font-size: 45px;
+    font-weight:500;
+}
+.mercuryImg{
+    max-width: 100%;
+    max-height:100%;
+}
+
+.mercury{
+    display: grid;
+    align-items:center; 
+    grid-template-columns: 1fr 3fr 0fr;
+    column-gap: 5px;
+}
+
+.mercuryText{
+    color: white;
+    font-size: 31px;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    text-align: left;
+}
+
+.venusText{
+    color: white;
+    font-size: 31px;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style:normal;
+    text-align: right;
+}
+
+.venusImg{
+    max-width: 100%;
+    max-height:100%;
+    float:right;
+}
+
+.venus{
+    display: grid;
+    align-items:center; 
+    grid-template-columns: 7fr 2fr 0fr;
+    column-gap: 5px;
+}
+
+.earthImg{
+    max-width: 100%;
+    max-height:100%;
+}
+
+.earth{
+    display: grid;
+    align-items:center; 
+    grid-template-columns: 1fr 3fr 0fr;
+    column-gap: 5px;
+}
+
+.earthText{
+    color: white;
+    font-size: 31px;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    text-align: left;
+}
+
+.whiteText{
+    color: #FFFFFF;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 21px;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+a{
+    text-decoration: underline;
+    text-decoration-color: #FFFFFF;
+}

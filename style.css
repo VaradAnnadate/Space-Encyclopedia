@@ -1,0 +1,29 @@
+body
+{
+    background-image: url(./images/Black\ Sky\ Stars.jpg);
+}
+
+h1{ 
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 21px;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+a{
+    text-decoration: underline;
+    text-decoration-color: #FFFFFF;
+}
